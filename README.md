@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Francine Course Applied Data Science Capstone Github Repository
+Francine_Applied Data Science Capstone Github Repository
